@@ -1,1 +1,1 @@
-(Scratch)[scratch.mit.edu]
+[Scratch](scratch.mit.edu)
